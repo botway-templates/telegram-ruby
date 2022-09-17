@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require "telegram/bot"
-require "botwayrb"
+require "bwrb"
 
 bw = Botwayrb::Core.new
 

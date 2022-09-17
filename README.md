@@ -6,4 +6,4 @@
 
 - [**Ruby**](https://www.ruby-lang.org)
 - [**Telegram Bot Ruby**](https://github.com/atipugin/telegram-bot-ruby)
-- [**BotwayRb**](https://rubygems.org/gems/botwayrb)
+- [**BWRB**](https://rubygems.org/gems/bwrb)
